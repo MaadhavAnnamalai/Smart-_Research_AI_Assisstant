@@ -1,0 +1,26 @@
+# Copy this file to .env and fill in your API keys
+
+# OpenAI Configuration
+OPENAI_API_KEY=your_openai_api_key_here
+
+# Anthropic Configuration (Optional - for Claude)
+ANTHROPIC_API_KEY=your_anthropic_api_key_here
+
+# Database Configuration
+DATABASE_URL=sqlite:///./research_assistant.db
+
+# Pathway Configuration (for live data)
+PATHWAY_API_KEY=your_pathway_api_key_here
+
+# Application Configuration
+DEBUG=True
+LOG_LEVEL=INFO
+
+# Billing Configuration
+FLEXPRICE_API_KEY=your_flexprice_api_key_here
+FLEXPRICE_WEBHOOK_SECRET=your_webhook_secret_here
+
+# Server Configuration
+HOST=0.0.0.0
+PORT=8000
+

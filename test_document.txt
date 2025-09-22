@@ -1,0 +1,28 @@
+Test Document for OpenAI Analysis
+
+This is a test document created for testing the OpenAI file reader.
+
+Key Features:
+• PDF text extraction
+• AI-powered analysis  
+• Question answering
+
+The OpenAI API can now read and analyze various file formats through the Streamlit interface.
+Users can upload documents and ask specific questions about their content.
+
+This demonstrates the capability to process various document formats including:
+- PDF files
+- Word documents (.docx)
+- Text files (.txt)
+- Code files (.py, .js, .html, etc.)
+
+The system extracts text from these documents and uses OpenAI's GPT models
+to provide intelligent analysis and answer user questions.
+
+Sample Questions you can ask:
+1. What is this document about?
+2. What are the key features mentioned?
+3. What file formats are supported?
+4. How does the system work?
+
+
